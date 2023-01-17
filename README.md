@@ -48,9 +48,3 @@
 
   
 
-  ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ivanna49">
-</a>
-<a href="https://github.com/jamel123a?tab=followers"><img src="https://img.shields.io/github/followers/jamel123a?label=Followers&style=social" alt="GitHub Badge"></a>
-
