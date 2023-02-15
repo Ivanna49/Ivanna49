@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 <h1 align="center">Soy Ivanna López Barbona <a href="#"><img width="15%" height="auto" text-align="center" src="http://www.gifss.es/informatica/informaticos/chica-ordenador.gif" height="10px"/></a></h1> 
-<h3 align="center"><i>Desarrolladora web Full Stack de Argentina</i></h3> 
+<h3 align="center"><i>Desarrolladora Web Full Stack de Argentina</i></h3> 
 
 
 <!--Contador de visitas-->
@@ -14,9 +14,9 @@
 <div align="center">
 
 
-- 🚀 Cursando los ultimos días en #YOPROMAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot ,Java y MySQL.*
+- 🚀 Cursando los ultimos días en #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.*
 
-💡 Estoy interesada en **Web development**.
+💡 Estoy interesada en **Web Development**.
 
 💼 Estoy terminando mi Portfolio <br> Mientras tanto pueden mirar mis respositorios en [GitHub](https://github.com/Ivanna49tab=repositories).
 
