@@ -14,11 +14,11 @@
 <div align="center">
 
 
-- 🚀 Cursando los ultimos días en #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.*
+- 🚀 Participé de #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.*
 
 💡 Estoy interesada en **Web Development**.
 
-💼 Estoy terminando mi Portfolio <br> Mientras tanto pueden mirar mis respositorios en [GitHub](https://github.com/Ivanna49tab=repositories).
+💼 Podés ver mi portfolio de Argentina Programa en: https://frontendib.web.app/ <br> También podés mirar mis respositorios en [GitHub](https://github.com/Ivanna49tab=repositories).
 
 <h3 align="left">Podés encontrarme en :</h3>
 <p align="left">
