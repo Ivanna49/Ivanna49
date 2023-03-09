@@ -18,7 +18,7 @@
 
 💡 Estoy interesada en **Web Development**.
 
-💼 Podés ver mi portfolio de Argentina Programa en: https://frontendib.web.app/ <br> También podés mirar mis respositorios en [GitHub](https://github.com/Ivanna49tab=repositories).
+💼 Podés ver mi portfolio de Argentina Programa en: https://frontendib.web.app/ <br> También podés mirar mis respositorios en [GitHub](https://github.com/Ivanna49?tab=repositories).
 
 <h3 align="left">Podés encontrarme en :</h3>
 <p align="left">
