@@ -17,7 +17,7 @@
 - 🚀 Participé de #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.*
 - Soy Diseñadora UX/UI y estoy cursando la última etapa de Testing QA.
 
-💡 Estoy interesada en **Web Development**.
+💡 Estoy interesada en **Web Development**, Tseting QA y Diseño UX/UI.
 
 💼 Podés ver mi portfolio de Argentina Programa en: https://frontendib.web.app/ <br> También podés mirar mis respositorios en [GitHub](https://github.com/Ivanna49?tab=repositories).
 
