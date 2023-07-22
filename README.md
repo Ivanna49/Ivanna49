@@ -15,6 +15,7 @@
 
 
 - 🚀 Participé de #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.*
+- Soy Diseñadora UX/UI y estoy cursando la última etapa de Testing QA.
 
 💡 Estoy interesada en **Web Development**.
 
