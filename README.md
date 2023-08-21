@@ -49,4 +49,4 @@
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" data-bs-toggle="tooltip" title="BOOTSTRAP"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
 
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivanna López barbona&theme=react&show_icons=true" alt="ivannalópezbarbona" /></p>
+
