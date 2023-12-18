@@ -36,22 +36,6 @@ Soy Diseñadora UX/UI y Tester QA.
 </p>
 </p>
 
-<h3 align="left">Tecnologías y herramientas que utilizo:</h3>
-
-<p align="center"> 
-<!–– JAVASCRIPT ––>
-<a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" data-bs-toggle="tooltip" title="JavaScript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javaScript"/> </a>
-<!–– PYTHON ––>
-  <a href="https://www.python.org/" target="_blank" data-bs-toggle="tooltip" title="Python"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
-<!-- MYSQL -->
-<a href="https://www.mysql.com/" alt="MYSQL" data-bs-toggle="tooltip" title="MYSQL" ><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<!-- HTML -->
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" alt="HTML5" data-bs-toggle="tooltip" title="HTML" ><img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<!–– CSS ––>
-<a href="https://www.w3schools.com/css/" target="_blank" data-bs-toggle="tooltip" title="CSS3"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-<!–– BOOTSTRAP ––>
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" data-bs-toggle="tooltip" title="BOOTSTRAP"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
-
 ## 📜 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
