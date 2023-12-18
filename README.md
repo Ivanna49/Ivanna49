@@ -3,6 +3,9 @@
 
 <h1 align="center">Hola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edcdf5e&size=35&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Ivanna López Narbona;Bienvenido!+:%29)](https://git.io/typing-svg)
+
 <h1 align="center">Soy Ivanna López Barbona <a href="#"><img width="15%" height="auto" text-align="center" src="http://www.gifss.es/informatica/informaticos/chica-ordenador.gif" height="10px"/></a></h1> 
 <h3 align="center"><i>Desarrolladora Web Full Stack de Argentina</i></h3> 
 
