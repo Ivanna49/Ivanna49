@@ -52,6 +52,11 @@ Soy Diseñadora UX/UI y Tester QA.
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" data-bs-toggle="tooltip" title="BOOTSTRAP"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ivanna49&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ivanna49 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanna49&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
