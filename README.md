@@ -127,7 +127,7 @@ Soy Diseñadora UX/UI y Tester QA.
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ivanna49&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ivanna49 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanna49&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivanna49k&show_icons=true&theme=jolly&hide_border=true&border=DD0000&locale=en" alt="Ivanna49" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivanna49&show_icons=true&theme=jolly&hide_border=true&border=DD0000&locale=en" alt="Ivanna49" />
 </div>
 
 
