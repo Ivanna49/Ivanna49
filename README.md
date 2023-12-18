@@ -20,7 +20,7 @@
 
 💡 Estoy interesada en **Web Development**, Tseting QA y Diseño UX/UI.
 
-💼 Podés ver mi portfolio de Argentina Programa en: https://frontendib.web.app/ <br> También podés mirar mis respositorios en https://github.com/Ivanna49?tab=repositories/
+💼 Podés ver mi portfolio de Argentina Programa en target="_blank" https://frontendib.web.app/ <br> También podés mirar mis respositorios en https://github.com/Ivanna49?tab=repositories/
 
 <h3 align="left">Podés encontrarme en :</h3>
 <p align="left">
