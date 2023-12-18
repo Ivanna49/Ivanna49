@@ -3,8 +3,7 @@
 
 <h1 align="center">Hola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-<p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
-I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
+
 
 
 <h1 align="center">Soy Ivanna López Barbona <a href="#"><img width="15%" height="auto" text-align="center" src="http://www.gifss.es/informatica/informaticos/chica-ordenador.gif" height="10px"/></a></h1> 
