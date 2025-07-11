@@ -20,9 +20,9 @@
 
 🚀 Participé de #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.
 <br>
-Soy Diseñadora UX/UI y Tester QA.
+También soy Diseñadora UX/UI.
 
-💡 Estoy interesada en **Web Development**, Testing QA y Diseño UX/UI.
+💡 Estoy interesada en **Web Development**, Testing QA Data.
 
 💼 Podés ver mi portfolio de Argentina Programa en  https://frontendib.web.app/ <br> También podés mirar mis respositorios en https://github.com/Ivanna49?tab=repositories/
 
@@ -116,6 +116,10 @@ Soy Diseñadora UX/UI y Tester QA.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Platzi](https://img.shields.io/badge/Platzi-002333?style=for-the-badge&logo=platzi&logoColor=00FF84)
+![CodigoFacilito](https://img.shields.io/badge/🐊%20CodigoFacilito-%2314BF96.svg?style=for-the-badge&logo=codigofacilito&logoColor=white)
+![Youtube](https://img.shields.io/badge/youtube-%23DD0031.svg?style=for-the-badge&logo=youtube&logoColor=white)
 ![Talento TecH](https://img.shields.io/badge/Talento_TecH-0078D7?style=for-the-badge&logo=microsoft-academic&logoColor=white)
 ![Tecno3F](https://img.shields.io/badge/Tecno3F-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
@@ -128,6 +132,8 @@ Soy Diseñadora UX/UI y Tester QA.
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ivanna49&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ivanna49 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanna49&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
 
 
 ![Visitas](https://komarev.com/ghpvc/?username=Ivanna49&label=Profile%20views&color=blue&style=flat-square)
