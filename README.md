@@ -131,7 +131,8 @@ Soy Diseñadora UX/UI y Tester QA.
 
 
 <div align="center">
-  <br><p align="center"><b>Visitas</b></p>  
-  <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Ivanna49.Ivanna49" alt="Visitas" /></p> 
+  <br><p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Ivanna49.Ivanna49" alt="Visitas" />
+</p>
   <br>
 </div>
