@@ -98,6 +98,7 @@ Soy Diseñadora UX/UI y Tester QA.
 
 ## 🔎 Testing & QA
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 <br />
 <br />
 
@@ -105,6 +106,7 @@ Soy Diseñadora UX/UI y Tester QA.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 <br />
 <br />
 
@@ -114,10 +116,8 @@ Soy Diseñadora UX/UI y Tester QA.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Platzi](https://img.shields.io/badge/Platzi-002333?style=for-the-badge&logo=platzi&logoColor=00FF84)
-![CodigoFacilito](https://img.shields.io/badge/🐊%20CodigoFacilito-%2314BF96.svg?style=for-the-badge&logo=codigofacilito&logoColor=white)
-![Youtube](https://img.shields.io/badge/youtube-%23DD0031.svg?style=for-the-badge&logo=youtube&logoColor=white)
+![Talento TecH](https://img.shields.io/badge/Talento_TecH-0078D7?style=for-the-badge&logo=microsoft-academic&logoColor=white)
+![Tecno3F](https://img.shields.io/badge/Tecno3F-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 <br />
 <br />
@@ -131,8 +131,8 @@ Soy Diseñadora UX/UI y Tester QA.
 
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ivanna49}/count.svg" /></p> 
-<br>
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Ivanna49.Ivanna49" alt="Visitors Counter" /></p> 
+  <br>
 </div>
 
