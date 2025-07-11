@@ -130,9 +130,4 @@ Soy Diseñadora UX/UI y Tester QA.
 </div>
 
 
-<div align="center">
-  <br><p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ivanna49.Ivanna49" alt="Visitas" />
-</p>
-  <br>
-</div>
+![Visitas](https://komarev.com/ghpvc/?username=Ivanna49&label=Profile%20views&color=blue&style=flat-square)
