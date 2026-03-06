@@ -7,22 +7,17 @@
 
 
 <h1 align="center">I´m Ivanna López Barbona <a href="#"><img width="15%" height="auto" text-align="center" src="http://www.gifss.es/informatica/informaticos/chica-ordenador.gif" height="10px"/></a></h1> 
-<h3 align="center"><i>QA Tester y Desarrolladora Web Full Stack de Argentina</i></h3> 
-
+<h3 align="center"><i>Full Stack Developer</i></h3> 
 
 
 <p></p>
 <p></p>
-
 
 <div align="center">
 
 
-🚀 I am a student, passionate about web development, software testing, and artificial intelligence
+🚀 I am a student, passionate about Software Development, Data Analytics, AI, and QA Testing.
 
-💡 I´m interested in Software Development Data Analytics, AI, and QA Testing.
-
-💼 Podés ver mi portfolio de Argentina Programa en  https://frontendib.web.app/ <br> También podés mirar mis respositorios en https://github.com/Ivanna49?tab=repositories/
 
 <h3 align="left">Podés encontrarme en :</h3>
 <p align="left">
@@ -52,8 +47,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br />
-
 
 ## 📱 Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -63,7 +56,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<br />
 
 ## 🎨 Art & design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
