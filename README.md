@@ -10,7 +10,7 @@
 <h3 align="center"><i>QA Tester y Desarrolladora Web Full Stack de Argentina</i></h3> 
 
 
-<!--Contador de visitas-->
+
 <p></p>
 <p></p>
 
@@ -18,11 +18,9 @@
 <div align="center">
 
 
-🚀 Participé de #YOPROGRAMO# de ARGENTINA PROGRAMA , utilizando HTML5, CSS3, Angular, Bootstrap, Springboot, Java y MySQL.
-<br>
-También soy Diseñadora UX/UI.
+🚀 I am a student, passionate about web development, software testing, and artificial intelligence
 
-💡 Estoy interesada en **Web Development**, Testing QA Data.
+💡 I´m interested in Software Development Data Analytics, AI, and QA Testing.
 
 💼 Podés ver mi portfolio de Argentina Programa en  https://frontendib.web.app/ <br> También podés mirar mis respositorios en https://github.com/Ivanna49?tab=repositories/
 
@@ -52,14 +50,11 @@ También soy Diseñadora UX/UI.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br />
-<br />
-
-## ✨ Styling Libraries, Frameworks and Pre-processors
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br />
+<br />
+
 
 ## 📱 Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
