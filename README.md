@@ -25,7 +25,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/ivanna-lopez-barbona/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ivanna lopez barbona" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ivibarbona@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="ivanna lopez barbona" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Ivanna49" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="ivana lopez barbona" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a  href="https://frontendib.web.app/" target="_blank"  align="left"><img src="https://img.shields.io/badge/-MI PORTFOLIO-orange?style=for-the-badge" alt="Portfolio Ivanna López Barbona"/></a>
+    <a  href="(https://ivanna49.github.io/Portfolio-Frontend/)/" target="_blank"  align="left"><img src="https://img.shields.io/badge/-MI PORTFOLIO-orange?style=for-the-badge" alt="Portfolio Ivanna López Barbona"/></a>
 </p>
 </p>
 
