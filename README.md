@@ -16,10 +16,10 @@
 <div align="center">
 
 
-🚀 I am a student, passionate about Software Development, Data Analytics, AI, and QA Testing.
+🚀 I am a professional passionate about the software development lifecycle, from code conception to delivering value through data. My approach combines the robustness of Full Stack Development with the precision of QA (Manual & Automation) and the strategic vision of Data Analytics. I not only build functional applications, but I also ensure their quality through comprehensive testing strategies and use data analysis to optimize processes. I specialize in integrating Artificial Intelligence tools to boost productivity, whether through generating automation scripts or predictive data analysis.
 
 
-<h3 align="left">Podés encontrarme en :</h3>
+<h3 align="left">You can find me at :</h3>
 <p align="left">
   <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ivanna-lopez-barbona/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ivanna lopez barbona" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
