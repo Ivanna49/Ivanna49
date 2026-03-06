@@ -53,7 +53,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br />
-<br />
 
 
 ## 📱 Mobile
@@ -109,11 +108,7 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/w3schools-%23099443.svg?style=for-the-badge&logo=w3c&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Platzi](https://img.shields.io/badge/Platzi-002333?style=for-the-badge&logo=platzi&logoColor=00FF84)
-![CodigoFacilito](https://img.shields.io/badge/🐊%20CodigoFacilito-%2314BF96.svg?style=for-the-badge&logo=codigofacilito&logoColor=white)
 ![Youtube](https://img.shields.io/badge/youtube-%23DD0031.svg?style=for-the-badge&logo=youtube&logoColor=white)
 ![Talento TecH](https://img.shields.io/badge/Talento_TecH-0078D7?style=for-the-badge&logo=microsoft-academic&logoColor=white)
 ![Tecno3F](https://img.shields.io/badge/Tecno3F-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
